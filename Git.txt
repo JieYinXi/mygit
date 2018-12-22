@@ -8,3 +8,5 @@ git pull		从远程仓库拉取数据
 git clone		从远程仓库拷贝数据
 
 git rm --cached <file> 取消上传
+
+在服务器上做更改？
