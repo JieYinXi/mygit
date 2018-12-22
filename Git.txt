@@ -7,3 +7,5 @@ git pull		从远程仓库拉取数据
 git clone		从远程仓库拷贝数据
 
 git rm --cached <file> 取消上传
+
+要重新安装一次，是用notepad++打开的，不好
